@@ -1,5 +1,5 @@
 # cpp_projects
-A few C++ projects I created for my CS 14 course. These have been further modified from the original assignment descriptions to include various safety checks, such as handling non-integer inputs when one is requested.
+A few C++ projects I created for my CS 14 course. These have been further modified from the original assignment descriptions to include various input validations, such as handling non-integer inputs when one is requested.
 
 **gambling_game.cpp**
 A simple gambling game. The user picks three unique integers from 1-10 and their bet, and they try to get to 1500$ without losing it all.
